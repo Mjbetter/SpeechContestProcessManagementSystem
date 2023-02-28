@@ -1,6 +1,5 @@
 *.sln
 *.vcxproj
-.Debug
 *.vcxproj.filters
 *.vcxproj.user
 *.csv
